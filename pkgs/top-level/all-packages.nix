@@ -25414,6 +25414,8 @@ in
 
   ideogram = callPackage ../applications/graphics/ideogram { };
 
+  infinisweep = callPackage ../games/infinisweep { };
+
   instead = callPackage ../games/instead { };
 
   instead-launcher = callPackage ../games/instead-launcher { };

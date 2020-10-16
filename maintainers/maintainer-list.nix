@@ -938,6 +938,12 @@
     githubId = 75235;
     name = "Michael Walker";
   };
+  basile-henry = {
+    email = "bjm.henry+nixpkgs@gmail.com";
+    github = "basile-henry";
+    githubId = 3369034;
+    name = "Basile Henry";
+  };
   basvandijk = {
     email = "v.dijk.bas@gmail.com";
     github = "basvandijk";
